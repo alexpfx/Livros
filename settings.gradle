@@ -2,3 +2,5 @@ rootProject.name = 'Livros'
 
 include 'HeadFirstDesignPatterns'
 
+include 'OcaOcpStudyGuide'
+
